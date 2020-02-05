@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KatalogFilm-4</string>
+    <string name="bahasa_asal">Bahasa Asli</string>
+    <string name="change_language_settings">"Pengaturan Ubah Bahasa "</string>
+    <string name="failure">Gagal</string>
+    <string name="favorite_movies_is_empty">Film Favorite Kosong</string>
+    <string name="favorite_success_add_movie">Berhasil Menambahkan Film Ke Favorite</string>
+    <string name="favorite_success_add_tv_show">Berhasil Menambahkan Acara TV Ke Favorite</string>
+    <string name="favorite_success_remove_movie">Berhasil Menghapus Film Dari Favorite</string>
+    <string name="favorite_success_remove_tv_show">Berhasil Menghapus Acara TV Dari Favorite</string>
+    <string name="favorite_tv_show_is_empty">Tv Show Favorite Kosong</string>
+    <string name="tab_favorites">Favorite</string>
+    <string name="tab_movies">Film</string>
+    <string name="tab_tv_shows">Acara TV</string>
+    <string name="tanggal_rilis">Tanggal Rilis</string>
+    <string name="title">Judul</string>
+    <string name="title_activity_main">Katalog FIlm</string>
+    <string name="title_activity_main_bot_nav">Katalog FIlm</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="title_movie">Film</string>
+    <string name="title_tv_show">Acara TV</string>
+    <string name="vote">Suara</string>
+</resources>

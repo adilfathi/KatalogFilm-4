@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_movie"
+        android:icon="@drawable/ic_local_movies_black_24dp"
+        android:title="@string/tab_movies" />
+
+    <item
+        android:id="@+id/navigation_tvshow"
+        android:icon="@drawable/ic_live_tv_black_24dp"
+        android:title="@string/tab_tv_shows" />
+
+    <item
+        android:id="@+id/navigation_fav"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="@string/tab_favorites" />
+
+</menu>

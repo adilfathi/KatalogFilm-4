@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">KatalogFilm-4</string>
+    <string name="tab_movies">Movies</string>
+    <string name="tab_tv_shows">TV Show</string>
+    <string name="title_activity_main">Movie Catalogue</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="title">Title</string>
+    <string name="tanggal_rilis">Release Date</string>
+    <string name="vote">Vote</string>
+    <string name="bahasa_asal">Original Language</string>
+    <string name="failure">Failure</string>
+    <string name="title_activity_main_bot_nav">Movie Catalogue</string>
+    <string name="title_movie">Movie</string>
+    <string name="title_tv_show">TV Show</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="tab_favorites">Favorite</string>
+    <string name="favorite_movies_is_empty">Favorite Movies is empty!</string>
+    <string name="favorite_tv_show_is_empty">Favorite TV Show is empty!</string>
+    <string name="favorite_success_add_movie">Successfully add movie to Favorite!</string>
+    <string name="favorite_success_remove_movie">Successfuly remove movie from favorite!</string>
+    <string name="favorite_success_remove_tv_show">Successfuly remove TV Show from favorite!</string>
+    <string name="favorite_success_add_tv_show">Successfully add TV Show to Favorite!</string>
+</resources>
